@@ -80,9 +80,13 @@ Through this project, I practiced:
 - Linux process management
 - Working with Git and GitHub
 
+## Project URL
+
+https://github.com/cloudvenky/linux-server-stats
+
 ## GitHub Repository
 
-[https://github.com/cloudvenky/linux-server-stats](https://github.com/cloudvenky/linux-server-stats)
+https://github.com/cloudvenky/linux-server-stats
 
 ---
 
