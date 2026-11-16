@@ -1,6 +1,8 @@
 ## Project URL
 
-https://github.com/cloudvenky/linux-server-stats# Linux Server Performance Monitoring
+https://github.com/cloudvenky/linux-server-stats 
+
+#Linux Server Performance Monitoring
 
 A lightweight Bash script to monitor Linux server performance and display important system health information directly from the terminal.
 
